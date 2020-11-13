@@ -7,3 +7,10 @@ Projeto criado para treinar as tecnologias ensinadas no curso da Rocketseat
     - express
     - typeORM
     - JWT
+  
+  FrontEnd
+    - Typescript
+    - Unform
+    - React-Icons
+    - Styled-Components
+
